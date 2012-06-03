@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Ball</string>
+		<string>Editor</string>
+		<string>Explosion</string>
+		<string>Main</string>
+		<string>Map</string>
+		<string>Tile</string>
+	</array>
+	<key>Created</key>
+	<date>2011-11-10T04:54:05Z</date>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
